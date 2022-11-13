@@ -1,0 +1,6 @@
+userArray - array of items that the user adds 
+allRecipes - an array of recipes
+recipe - each recipe dictionary
+ingredients - list inside each recipe
+
+
