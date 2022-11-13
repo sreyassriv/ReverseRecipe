@@ -3,4 +3,8 @@ allRecipes - an array of recipes
 recipe - each recipe dictionary
 ingredients - list inside each recipe
 
+userArray = [butter, garlic]
 
+run a loop through allRecipes
+    run a loop through ingredients of recipe
+    search all
